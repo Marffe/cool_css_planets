@@ -1,6 +1,7 @@
 # Cool CSS animated Planets
 
-**[Check the Project here](https://github.com/Marffe/cool_css_planets/deployments/activity_log?environment=github-pages)**
+**[Check the Project here](https://marffe.github.io/cool_css_planets/)**
+
 Well, I do this while looking at this [Video](https://www.youtube.com/watch?v=6M-rZIukXy0&list=WL&index=1) made by [Ania Kubow](https://www.youtube.com/c/AniaKubów), this a very simple version of the original, no shadows or fancy stuff, just the basic concept.
 
 Why I didn't follow the whole project? For respect to my mental sanity because I was doing a different solar system and that means **having to recalculate everything in the project**
