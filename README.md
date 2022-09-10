@@ -1,5 +1,6 @@
 # Cool CSS animated Planets
 
+**[Check the Project here](https://github.com/Marffe/cool_css_planets/deployments/activity_log?environment=github-pages)**
 Well, I do this while looking at this [Video](https://www.youtube.com/watch?v=6M-rZIukXy0&list=WL&index=1) made by [Ania Kubow](https://www.youtube.com/c/AniaKubów), this a very simple version of the original, no shadows or fancy stuff, just the basic concept.
 
 Why I didn't follow the whole project? For respect to my mental sanity because I was doing a different solar system and that means **having to recalculate everything in the project**
@@ -13,6 +14,8 @@ Why I didn't follow the whole project? For respect to my mental sanity because I
 - **Animations, 3D Effect and Scale**: You can be **REALLY** precise with all datails of the project with a hypotetical tool that can help you to check the porcentual position of the animation, or just slow and painful trial and error.
 
 - **More Planets**: Sounds like a good idea but each one can exponesialy incresse the complexcity of the project.
+
+- **Deferrent rotations**: This don't sound hard to do just repetitive
 
 - **Backgound datails**: easiest part probaly, just add a starfield image.
 
