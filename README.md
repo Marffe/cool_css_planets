@@ -1,16 +1,16 @@
-# Coold CSS animated Planets
+# Cool CSS animated Planets
 
 Well, I do this while looking at this [Video](https://www.youtube.com/watch?v=6M-rZIukXy0&list=WL&index=1) made by [Ania Kubow](https://www.youtube.com/c/AniaKubów), this a very simple version of the original, no shadows or fancy stuff, just the basic concept.
 
-Why I didn't follow the whole project? For respect to my mental sanity because I was doing a different solor system and that means **having to recalculate everything in the project**
+Why I didn't follow the whole project? For respect to my mental sanity because I was doing a different solar system and that means **having to recalculate everything in the project**
 
 ## Facts of this project
 
 ### List of stuff I (and You) could do with this Project:
 
-- **Responsive?**: Actually yes is quite easy to do, just rotate the parent container 90° degrees and thats all, that's the easy path, making the classic media query adjustment can be a nightmare because the animaniton changes with scale.
+- **Responsive?**: Actually yes is quite easy to do, just rotate the parent container 90° degrees and thats all, that's the easy path, making the classic mediaquery adjustment can be a nightmare because the animaniton changes with scale.
 
-- **Animations, 3D Effect and Scale**: You can be **REALLY** precise with all datails of the project wiith a hypotetical tool that can help you to check the porcentual position of the animation, or just slow and painful trial and error.
+- **Animations, 3D Effect and Scale**: You can be **REALLY** precise with all datails of the project with a hypotetical tool that can help you to check the porcentual position of the animation, or just slow and painful trial and error.
 
 - **More Planets**: Sounds like a good idea but each one can exponesialy incresse the complexcity of the project.
 
